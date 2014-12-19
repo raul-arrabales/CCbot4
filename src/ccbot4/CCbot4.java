@@ -6,12 +6,8 @@
 package ccbot4;
 
 import CR.util.LogConfig;
-import CR.util.LogFormatter;
 import java.util.logging.Logger;
-import java.io.IOException;
-import java.util.logging.FileHandler;
-import java.util.logging.Handler;
-import java.util.logging.Level;
+
 
 /**
  *
