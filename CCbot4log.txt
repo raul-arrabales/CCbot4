@@ -1,1 +1,6 @@
-Fri Dec 19 13:58:53 CET 2014 INFORMACIÓN: Hi Log
+Fri Dec 19 15:22:17 CET 2014 INFORMACIÓN: Hi Log
+Fri Dec 19 15:22:17 CET 2014 INFORMACIÓN: CR.CC Starting CERA-CRANIUM...
+Fri Dec 19 15:22:17 CET 2014 INFORMACIÓN: Sensory-Motor Layer started.
+Fri Dec 19 15:22:17 CET 2014 INFORMACIÓN: Physical Layer started.
+Fri Dec 19 15:22:17 CET 2014 INFORMACIÓN: Mission Layer started.
+Fri Dec 19 15:22:17 CET 2014 INFORMACIÓN: Core Layer started.

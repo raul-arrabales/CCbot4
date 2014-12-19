@@ -5,6 +5,7 @@
  */
 package ccbot4;
 
+import CR.CC;
 import CR.util.LogConfig;
 import java.util.logging.Logger;
 
@@ -28,6 +29,10 @@ public class CCbot4
         System.out.println("Hi Console");
         LogConfig.initLogger("CCbot4log.txt");
         LOGGER.info("Hi Log");
+        
+        // Launch an instance of CERA-CRANIUM
+        CC cc = new CC();
+        cc.run();
     }
     
 }
