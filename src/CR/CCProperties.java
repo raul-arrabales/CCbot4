@@ -4,7 +4,7 @@ package CR;
  *
  * @author raul.arrabales
  */
-public interface Properties 
+public interface CCProperties 
 {
     /**
      * Number of threads available to run processors.
