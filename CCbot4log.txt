@@ -1,8 +1,8 @@
-Mon Feb 02 16:21:46 CET 2015 INFORMACIÓN: Hi Log
-Mon Feb 02 16:21:46 CET 2015 INFORMACIÓN: CR.CC Starting CERA-CRANIUM...
-Mon Feb 02 16:21:46 CET 2015 INFORMACIÓN: CR.CC Loading properties...
-Mon Feb 02 16:21:46 CET 2015 INFORMACIÓN: PROP: CR.CC.threads -> 23
-Mon Feb 02 16:21:46 CET 2015 INFORMACIÓN: Sensory-Motor Layer started.
-Mon Feb 02 16:21:46 CET 2015 INFORMACIÓN: Physical Layer started.
-Mon Feb 02 16:21:46 CET 2015 INFORMACIÓN: Mission Layer started.
-Mon Feb 02 16:21:46 CET 2015 INFORMACIÓN: Core Layer started.
+Tue Feb 03 16:57:45 CET 2015 INFORMACIÓN: Hi Log
+Tue Feb 03 16:57:45 CET 2015 INFORMACIÓN: CR.CC Starting CERA-CRANIUM...
+Tue Feb 03 16:57:45 CET 2015 INFORMACIÓN: CR.CC Loading properties...
+Tue Feb 03 16:57:45 CET 2015 INFORMACIÓN: PROP: CR.CC.threads -> 23
+Tue Feb 03 16:57:45 CET 2015 INFORMACIÓN: Sensory-Motor Layer started.
+Tue Feb 03 16:57:45 CET 2015 INFORMACIÓN: Physical Layer started.
+Tue Feb 03 16:57:45 CET 2015 INFORMACIÓN: Mission Layer started.
+Tue Feb 03 16:57:45 CET 2015 INFORMACIÓN: Core Layer started.

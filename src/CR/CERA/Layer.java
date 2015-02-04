@@ -1,6 +1,7 @@
 package CR.CERA;
 
 import CR.CC;
+import CR.CRANIUM.Workspace;
 import CR.util.Time;
 import java.util.logging.Logger;
 
@@ -19,6 +20,7 @@ public class Layer
     protected CC cc;
     private String name; 
     private Time currentTick;
+    private Workspace WS; 
     
     public Layer(CC parent, String name)
     {

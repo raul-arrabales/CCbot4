@@ -12,6 +12,7 @@ import java.util.Date;
 import java.util.logging.Logger;
  
 import java.util.Properties;
+import java.util.logging.Level;
 
 /**
  *
@@ -22,7 +23,11 @@ public class CC implements Runnable
     private static final Logger LOGGER = Logger.getLogger( 
             CC.class.getName() );
         
+    /**
+     * Props file
+     */
     public static final String PROPERTIES = "CC.properties"; 
+    
     private Properties CCprops = new Properties();
     
 
@@ -90,9 +95,9 @@ public class CC implements Runnable
     @Override
     public void run() 
     {
-        LOGGER.info(CC.class.getName() + " Starting CERA-CRANIUM...");
+        LOGGER.log(Level.INFO, "{0} Starting CERA-CRANIUM...", CC.class.getName());
         
-        LOGGER.info(CC.class.getName() + " Loading properties...");
+        LOGGER.log(Level.INFO, "{0} Loading properties...", CC.class.getName());
         try
         {
             CCprops.load(new FileInputStream(CC.PROPERTIES));
